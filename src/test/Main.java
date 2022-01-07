@@ -11,6 +11,7 @@ TestMethod3 test3= new TestMethod3();
 test.print();
 test2.print();
 test3.print();
+test3.print();
     }
 
 }
