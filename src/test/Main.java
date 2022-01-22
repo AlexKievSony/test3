@@ -8,6 +8,9 @@ public class Main
 TestMethod <String,String>test= new TestMethod<String,String>();
 test.set("value");
 
+
+
+
 String s= "st";
 Object o= s;
         Boolean a=true;
